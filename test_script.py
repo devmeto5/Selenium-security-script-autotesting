@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Configuration
-TARGET = 'https://photofordv.com'  # Target site URL
+TARGET = 'https://yourdomane.com'  # Target site URL
 ZAP_API_KEY = 'd6552r3fghvigntq49ark47sri'  # ZAP API key
 ZAP_PROXY = 'http://localhost:8081'  # ZAP proxy server address
 ZAP_API_URL = f'{ZAP_PROXY}/JSON'
