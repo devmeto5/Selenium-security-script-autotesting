@@ -1,6 +1,6 @@
 # Web Vulnerability Testing Script
 
-This script is used to test a target website for security vulnerabilities using Selenium for browser automation and OWASP ZAP (Zed Attack Proxy) for scanning. It performs automated spidering, passive scanning, and active scanning of the target website.
+This script is used to test a target website for security vulnerabilities using Selenium for browser automation and OWASP ZAP (Zed Attack Proxy) for scanning. It performs automated spidering, passive scanning, and active scanning of the target website
 
 ## Prerequisites
 
